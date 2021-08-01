@@ -6,5 +6,6 @@
 
 ### 效果:
 * 自動輪播切換寬度，也可手動點擊切換展示圖片
+* 動態顯示文字說明
 * 當畫面寬度小於768px時，展示自動圖片減為三張
 * [demo](https://gitakachan.github.io/vue-mini-projects01/)
